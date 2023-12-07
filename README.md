@@ -10,6 +10,8 @@ We've developed two websites to cater to job seekers' needs. The first website s
 - **Job Search:** Browse and apply for available jobs.
 - **Resume Builder:** Create various types of resumes effortlessly.
 
+🔗 Check out the website here - https://nayakkrmanish.github.io/job-search/
+
 ## Technologies Used
 
 This project was built using HTML, CSS, and JavaScript to ensure a dynamic and user-friendly experience.
